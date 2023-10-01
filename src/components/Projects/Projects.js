@@ -25,6 +25,7 @@ function Projects() {
               title="Stage #1"
               description="Stage en développement embarqué chez Schneider Electric sur des micro-controleur de chez STMicroElectronics sur l'ide Stm32CubeIde avec des cartes de type Nucleo"
               ghLink="https://github.com/Lamikad0v2"
+              modalContent="Stage en développement embarqué chez Schneider Electric sur des micro-controleur de chez STMicroElectronics sur l'ide Stm32CubeIde avec des cartes de type Nucleo"
             />
           </Col>
 
